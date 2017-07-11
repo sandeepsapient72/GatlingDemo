@@ -6,5 +6,7 @@ copy  project into any local folder
 Change your urls into application.properties
 
 execute  command mvn  package  to build project
+
 execute mvn  gatling:execute to generate  reports
+
 reports will be generated  in mc_perf_tests\target\reports folder
